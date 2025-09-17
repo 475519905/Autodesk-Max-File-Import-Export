@@ -58,8 +58,8 @@ Manual Installation:
 ==============================================================================
 
 - Operating System: Windows 10/11 (64-bit)
-- Blender: Version 3.0 or later
-- Autodesk 3ds Max: Version 2020 or later (any edition)
+- Blender: Version 4.2 or later
+- Autodesk 3ds Max: Version 2025 or later (any edition)
 - Python: Compatible with your 3ds Max installation
 - Disk Space: 50MB minimum for temporary file operations
 - RAM: 4GB minimum, 8GB recommended for large scenes
